@@ -1,7 +1,7 @@
 # Olá, eu sou a nyx 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Interessada em **Desenvolvimento Web** e **APIs REST**  
+💻 **Desenvolvedora em Formação**  
 🚀 Aprendendo Python, JavaScript e Banco de Dados
 
 ## 🛠 Tecnologias e Ferramentas
